@@ -22,5 +22,5 @@ if (an>1000 ) and (an<10000):
 		print('Anul boului')
 	if an%12==6:
 		print('Anul tigrului')	
-    if (an%12==7):
-	    print('Anul iepurelui')	
+        if (an%12==7):
+	        print('Anul iepurelui')	
